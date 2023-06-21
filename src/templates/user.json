@@ -1,0 +1,13 @@
+{
+    "details":{
+        "username": "",
+        "password": ""
+    },
+    "subscriptions": [
+        {
+            "startDate": "",
+            "endDate": "",
+            "subscriptionId": ""
+        }
+    ]
+}
